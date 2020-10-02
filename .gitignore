@@ -1,7 +1,0 @@
-*.egg
-*.bam
-*.pt
-built/
-stamp
-*Makefile*
-*.boo
